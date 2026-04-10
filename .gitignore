@@ -1,0 +1,35 @@
+# Maven / Java
+target/
+*.class
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Variáveis de ambiente (NUNCA versionar isso)
+.env
+.env.*
+*.env
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Logs e dados temporários
+*.log
+logs/
+tmp/
+temp/
+
+# Docker
+*.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
