@@ -46,6 +46,16 @@
 
 ---
 
+## 🤝 Plataformas & CRM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pipedrive-017737?style=for-the-badge&logo=pipedrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
+
+---
+
 ## 🚀 Projetos em Destaque
 
 ### 📦 [ecommerce-etl](https://github.com/luccxl99/ecommerce-etl)
