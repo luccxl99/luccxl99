@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/─────────────%20Linguagens%20─────────────-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<p align="center">—————————————— LINGUAGENS ——————————————</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<img src="https://img.shields.io/badge/──────────%20Frameworks%20%26%20Libs%20──────────-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<p align="center">————————————— FRAMEWORKS & LIBS —————————————</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
-<img src="https://img.shields.io/badge/────────────%20Dados%20%26%20Infra%20────────────-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<p align="center">—————————————— DADOS & INFRA ——————————————</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
