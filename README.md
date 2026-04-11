@@ -73,12 +73,12 @@ API REST para gerenciamento de tarefas — backend robusto com foco em boas prá
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luccxl99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccxl99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luccxl99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccxl99&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=luccxl99&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=luccxl99&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
