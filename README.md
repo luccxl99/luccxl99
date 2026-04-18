@@ -51,7 +51,7 @@ Sou um **Engenheiro de Dados com mentalidade de produto**, focado em transformar
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=databricks&logoColor=white"/>
 </p>
 
 ### 🧩 CRM & RevOps
