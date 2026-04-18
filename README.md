@@ -51,6 +51,7 @@ Sou um **Engenheiro de Dados com mentalidade de produto**, focado em transformar
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
 </p>
 
 ### 🧩 CRM & RevOps
@@ -64,6 +65,18 @@ Sou um **Engenheiro de Dados com mentalidade de produto**, focado em transformar
 
 ## 🚀 Projetos em Destaque
 
+### 🏗️ dw-ecommerce-olist
+Data Warehouse end-to-end no Google BigQuery com o dataset Olist:
+
+- Modelagem em star schema (dimensões + tabela fato)
+- Staging layer e camadas de transformação
+- Testes de qualidade de dados
+- Arquitetura orientada a analytics
+
+🔗 https://github.com/luccxl99/dw-ecommerce-olist
+
+---
+
 ### 📦 ecommerce-etl
 Pipeline completo de dados para e-commerce:
 
@@ -76,23 +89,13 @@ Pipeline completo de dados para e-commerce:
 
 ---
 
-### ⚙️ task-api
-API REST robusta para gerenciamento de tarefas:
-
-- Arquitetura limpa
-- Boas práticas de backend
-- Escalabilidade e organização
-
-🔗 https://github.com/luccxl99/task-api
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luccxl99&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luccxl99&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 🎯 Objetivo
